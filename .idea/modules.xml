@@ -20,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/onclickbuttons/onclickbuttons.iml" filepath="$PROJECT_DIR$/onclickbuttons/onclickbuttons.iml" />
       <module fileurl="file://$PROJECT_DIR$/resvalues/resvalues.iml" filepath="$PROJECT_DIR$/resvalues/resvalues.iml" />
       <module fileurl="file://$PROJECT_DIR$/simpleActivityResult/simpleActivityResult.iml" filepath="$PROJECT_DIR$/simpleActivityResult/simpleActivityResult.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simpleBrowser/simpleBrowser.iml" filepath="$PROJECT_DIR$/simpleBrowser/simpleBrowser.iml" />
       <module fileurl="file://$PROJECT_DIR$/simpleIntents/simpleIntents.iml" filepath="$PROJECT_DIR$/simpleIntents/simpleIntents.iml" />
       <module fileurl="file://$PROJECT_DIR$/simpleanimation/simpleanimation.iml" filepath="$PROJECT_DIR$/simpleanimation/simpleanimation.iml" />
       <module fileurl="file://$PROJECT_DIR$/simplecalculator/simplecalculator.iml" filepath="$PROJECT_DIR$/simplecalculator/simplecalculator.iml" />
