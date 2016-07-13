@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="E:\[Win Progs]\Android Studio\gradle\gradle-2.10" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/activityResult" />
+            <option value="$PROJECT_DIR$/activitylistener" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/contextMenu" />
+            <option value="$PROJECT_DIR$/dynamiclayout" />
+            <option value="$PROJECT_DIR$/dynamiclayout2" />
+            <option value="$PROJECT_DIR$/dynamiclayout3" />
+            <option value="$PROJECT_DIR$/getIntentAction" />
+            <option value="$PROJECT_DIR$/intentExtras" />
+            <option value="$PROJECT_DIR$/intentFilter" />
+            <option value="$PROJECT_DIR$/layoutfiles" />
+            <option value="$PROJECT_DIR$/listener" />
+            <option value="$PROJECT_DIR$/menuadv" />
+            <option value="$PROJECT_DIR$/menusimple" />
+            <option value="$PROJECT_DIR$/onclickbuttons" />
+            <option value="$PROJECT_DIR$/resvalues" />
+            <option value="$PROJECT_DIR$/simpleActivityResult" />
+            <option value="$PROJECT_DIR$/simpleIntents" />
+            <option value="$PROJECT_DIR$/simpleanimation" />
+            <option value="$PROJECT_DIR$/simplecalculator" />
+            <option value="$PROJECT_DIR$/twoactivity" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/activityResult" />
+            <option value="$PROJECT_DIR$/activitylistener" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/contextMenu" />
+            <option value="$PROJECT_DIR$/dynamiclayout" />
+            <option value="$PROJECT_DIR$/dynamiclayout2" />
+            <option value="$PROJECT_DIR$/dynamiclayout3" />
+            <option value="$PROJECT_DIR$/getIntentAction" />
+            <option value="$PROJECT_DIR$/intentExtras" />
+            <option value="$PROJECT_DIR$/intentFilter" />
+            <option value="$PROJECT_DIR$/layoutfiles" />
+            <option value="$PROJECT_DIR$/listener" />
+            <option value="$PROJECT_DIR$/menuadv" />
+            <option value="$PROJECT_DIR$/menusimple" />
+            <option value="$PROJECT_DIR$/onclickbuttons" />
+            <option value="$PROJECT_DIR$/resvalues" />
+            <option value="$PROJECT_DIR$/simpleActivityResult" />
+            <option value="$PROJECT_DIR$/simpleIntents" />
+            <option value="$PROJECT_DIR$/simpleanimation" />
+            <option value="$PROJECT_DIR$/simplecalculator" />
+            <option value="$PROJECT_DIR$/twoactivity" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
