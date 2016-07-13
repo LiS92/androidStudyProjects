@@ -13,8 +13,8 @@ import android.widget.EditText;
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
     final static String LOG_TAG = "myLogs";
 
-    Button btnAdd, btnRead, btnClear;
-    EditText etName, etEmail;
+    Button btnAdd, btnRead, btnClear, btnUpd, btnDel;
+    EditText etName, etEmail, etID;
 
     DBHelper dbHelper;
 
@@ -23,17 +23,21 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        btnAdd = (Button) findViewById(R.id.btnAdd);
-        btnAdd.setOnClickListener(this);
-
+        btnUpd = (Button) findViewById(R.id.btnUpd);
         btnRead = (Button) findViewById(R.id.btnRead);
-        btnRead.setOnClickListener(this);
-
+        btnAdd = (Button) findViewById(R.id.btnAdd);
+        btnDel = (Button) findViewById(R.id.btnDel);
         btnClear = (Button) findViewById(R.id.btnClear);
+
+        btnAdd.setOnClickListener(this);
+        btnUpd.setOnClickListener(this);
+        btnRead.setOnClickListener(this);
+        btnDel.setOnClickListener(this);
         btnClear.setOnClickListener(this);
 
         etName = (EditText) findViewById(R.id.etName);
         etEmail = (EditText) findViewById(R.id.etEmail);
+        etID = (EditText) findViewById(R.id.etID);
 
         // создаем объект для создания и управления версиями БД
         dbHelper = new DBHelper(this);
@@ -47,6 +51,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         // получаем данные из полей ввода
         String name = etName.getText().toString();
         String email = etEmail.getText().toString();
+        String id = etID.getText().toString();
 
         // подключаемся к БД
         SQLiteDatabase db = dbHelper.getWritableDatabase();
@@ -116,6 +121,41 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 // удаляем все записи
                 int clearCount = db.delete("mytable", null, null);
                 Log.d(LOG_TAG, "deleted rows count = " + clearCount);
+                break;
+            /*btnUpd – обновление записи в mytable. Проверяем, что значение id не пустое, заполняем
+            cv данными для апдейта и обновляем запись. Для этого используется метод update. На вход
+            ему подается имя таблицы, заполненный ContentValues с значениями для обновления, строка
+            условия (Where) и массив аргументов для строки условия. В строке условия я использовал
+            знак ?. При запросе к БД вместо этого знака будет подставлено значение из массива
+            аргументов, в нашем случае это – значение переменной id. Если знаков ? в строке условия
+            несколько, то им будут сопоставлены значения из массива по порядку. Метод update
+            возвращает нам кол-во обновленных записей, которое мы выводим в лог.*/
+            case R.id.btnUpd:
+                if (id.equalsIgnoreCase("")) {
+                    break;
+                    // Если поле пусто выходим
+                }
+                Log.d(LOG_TAG, "--- Update mytabe: ---");
+                // подготовим значения для обновления
+                cv.put("name", name);
+                cv.put("email", email);
+                // обновляем по id
+                int updCount = db.update("mytable", cv, "id = ?",
+                        new String[] { id });
+                Log.d(LOG_TAG, "updated rows count = " + updCount);
+                break;
+            /*btnDel – удаление записи из mytable. Проверяем, что id не пустое и вызываем метод
+            delete. На вход передаем имя таблицы, строку условия и массив аргументов для условия.
+            Метод delete возвращает кол-во удаленных строк, которое мы выводим в лог.*/
+            case R.id.btnDel:
+                if (id.equalsIgnoreCase("")) {
+                    break;
+                    // Если поле пусто выходим
+                }
+                Log.d(LOG_TAG, "--- Delete from mytabe: ---");
+                // удаляем по id
+                int delCount = db.delete("mytable", "id = " + id, null);
+                Log.d(LOG_TAG, "deleted rows count = " + delCount);
                 break;
         }
         // закрываем подключение к БД
