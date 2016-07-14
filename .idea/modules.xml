@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidStudyProjects.iml" filepath="$PROJECT_DIR$/AndroidStudyProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SQliteQuery/p0361_sqlitequery.iml" filepath="$PROJECT_DIR$/SQliteQuery/p0361_sqlitequery.iml" />
       <module fileurl="file://$PROJECT_DIR$/activityResult/activityResult.iml" filepath="$PROJECT_DIR$/activityResult/activityResult.iml" />
       <module fileurl="file://$PROJECT_DIR$/activitylistener/activitylistener.iml" filepath="$PROJECT_DIR$/activitylistener/activitylistener.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
