@@ -5,10 +5,11 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="E:\[Win Progs]\Android Studio\gradle\gradle-2.10" />
+        <option name="gradleHome" value="E:\AndroidStudio\gradle\gradle-2.10" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/SQliteInnerJoin" />
             <option value="$PROJECT_DIR$/SQliteQuery" />
             <option value="$PROJECT_DIR$/activityResult" />
             <option value="$PROJECT_DIR$/activitylistener" />
@@ -39,6 +40,7 @@
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/SQliteInnerJoin" />
             <option value="$PROJECT_DIR$/SQliteQuery" />
             <option value="$PROJECT_DIR$/activityResult" />
             <option value="$PROJECT_DIR$/activitylistener" />
