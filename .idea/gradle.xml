@@ -9,6 +9,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/SQLiteTransaction" />
             <option value="$PROJECT_DIR$/SQliteInnerJoin" />
             <option value="$PROJECT_DIR$/SQliteQuery" />
             <option value="$PROJECT_DIR$/activityResult" />
@@ -40,6 +41,7 @@
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/SQLiteTransaction" />
             <option value="$PROJECT_DIR$/SQliteInnerJoin" />
             <option value="$PROJECT_DIR$/SQliteQuery" />
             <option value="$PROJECT_DIR$/activityResult" />
