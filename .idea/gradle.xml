@@ -39,7 +39,7 @@
             <option value="$PROJECT_DIR$/SimpleCalculator" />
             <option value="$PROJECT_DIR$/SimpleIntents" />
             <option value="$PROJECT_DIR$/SimpleSQlite" />
-            <option value="$PROJECT_DIR$/TwoActivity" />
+            <option value="$PROJECT_DIR$/TwoActivityCall" />
           </set>
         </option>
         <option name="myModules">
@@ -75,7 +75,7 @@
             <option value="$PROJECT_DIR$/SimpleCalculator" />
             <option value="$PROJECT_DIR$/SimpleIntents" />
             <option value="$PROJECT_DIR$/SimpleSQlite" />
-            <option value="$PROJECT_DIR$/TwoActivity" />
+            <option value="$PROJECT_DIR$/TwoActivityCall" />
           </set>
         </option>
       </GradleProjectSettings>
