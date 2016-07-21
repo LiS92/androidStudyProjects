@@ -11,10 +11,13 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/ActivityListener" />
             <option value="$PROJECT_DIR$/ActivityResult" />
+            <option value="$PROJECT_DIR$/AllNotification" />
             <option value="$PROJECT_DIR$/ContextMenu" />
             <option value="$PROJECT_DIR$/DynamicLayout" />
             <option value="$PROJECT_DIR$/DynamicLayout2" />
             <option value="$PROJECT_DIR$/DynamicLayout3" />
+            <option value="$PROJECT_DIR$/FragmentTabs" />
+            <option value="$PROJECT_DIR$/FragmentTest" />
             <option value="$PROJECT_DIR$/GetIntentAction" />
             <option value="$PROJECT_DIR$/IntentExtras" />
             <option value="$PROJECT_DIR$/IntentFilter" />
@@ -28,6 +31,7 @@
             <option value="$PROJECT_DIR$/SQLiteTransaction" />
             <option value="$PROJECT_DIR$/SQliteInnerJoin" />
             <option value="$PROJECT_DIR$/SQliteQuery" />
+            <option value="$PROJECT_DIR$/SensorTest" />
             <option value="$PROJECT_DIR$/SharedPreferences" />
             <option value="$PROJECT_DIR$/SimpleActivityResult" />
             <option value="$PROJECT_DIR$/SimpleAnimation" />
@@ -35,8 +39,7 @@
             <option value="$PROJECT_DIR$/SimpleCalculator" />
             <option value="$PROJECT_DIR$/SimpleIntents" />
             <option value="$PROJECT_DIR$/SimpleSQlite" />
-            <option value="$PROJECT_DIR$/TwoActivityExample" />
-            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/TwoActivity" />
           </set>
         </option>
         <option name="myModules">
@@ -44,10 +47,13 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/ActivityListener" />
             <option value="$PROJECT_DIR$/ActivityResult" />
+            <option value="$PROJECT_DIR$/AllNotification" />
             <option value="$PROJECT_DIR$/ContextMenu" />
             <option value="$PROJECT_DIR$/DynamicLayout" />
             <option value="$PROJECT_DIR$/DynamicLayout2" />
             <option value="$PROJECT_DIR$/DynamicLayout3" />
+            <option value="$PROJECT_DIR$/FragmentTabs" />
+            <option value="$PROJECT_DIR$/FragmentTest" />
             <option value="$PROJECT_DIR$/GetIntentAction" />
             <option value="$PROJECT_DIR$/IntentExtras" />
             <option value="$PROJECT_DIR$/IntentFilter" />
@@ -61,6 +67,7 @@
             <option value="$PROJECT_DIR$/SQLiteTransaction" />
             <option value="$PROJECT_DIR$/SQliteInnerJoin" />
             <option value="$PROJECT_DIR$/SQliteQuery" />
+            <option value="$PROJECT_DIR$/SensorTest" />
             <option value="$PROJECT_DIR$/SharedPreferences" />
             <option value="$PROJECT_DIR$/SimpleActivityResult" />
             <option value="$PROJECT_DIR$/SimpleAnimation" />
@@ -68,8 +75,7 @@
             <option value="$PROJECT_DIR$/SimpleCalculator" />
             <option value="$PROJECT_DIR$/SimpleIntents" />
             <option value="$PROJECT_DIR$/SimpleSQlite" />
-            <option value="$PROJECT_DIR$/TwoActivityExample" />
-            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/TwoActivity" />
           </set>
         </option>
       </GradleProjectSettings>
