@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "H:\\5.Code\\Android\\AndroidStudyProjects\\AndroidStudyProjects\\twoactivity\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "H:\\5.Code\\Android\\AndroidStudyProjects\\AndroidStudyProjects\\twoactivity\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "H:\\5.Code\\Android\\AndroidStudyProjects\\AndroidStudyProjects\\TtwoActivity\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
+        "source": "H:\\5.Code\\Android\\AndroidStudyProjects\\AndroidStudyProjects\\TtwoActivity\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\anim-v21\\design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "H:\\5.Code\\Android\\AndroidStudyProjects\\AndroidStudyProjects\\TwoActivity\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "H:\\5.Code\\Android\\AndroidStudyProjects\\AndroidStudyProjects\\TwoActivity\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "H:\\5.Code\\Android\\AndroidStudyProjects\\AndroidStudyProjects\\TwoActivity\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
+        "source": "H:\\5.Code\\Android\\AndroidStudyProjects\\AndroidStudyProjects\\TwoActivity\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\anim-v21\\design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "H:\\5.Code\\Android\\AndroidStudyProjects\\AndroidStudyProjects\\TtwoActivity\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "H:\\5.Code\\Android\\AndroidStudyProjects\\AndroidStudyProjects\\TtwoActivity\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "H:\\5.Code\\Android\\AndroidStudyProjects\\AndroidStudyProjects\\TwoActivity\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "H:\\5.Code\\Android\\AndroidStudyProjects\\AndroidStudyProjects\\TwoActivity\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "H:\\5.Code\\Android\\AndroidStudyProjects\\AndroidStudyProjects\\twoactivity\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "H:\\5.Code\\Android\\AndroidStudyProjects\\AndroidStudyProjects\\twoactivity\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "H:\\5.Code\\Android\\AndroidStudyProjects\\AndroidStudyProjects\\twoactivity\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
+        "source": "H:\\5.Code\\Android\\AndroidStudyProjects\\AndroidStudyProjects\\twoactivity\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\anim-v21\\design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "H:\\5.Code\\Android\\AndroidStudyProjects\\AndroidStudyProjects\\TtwoActivity\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "H:\\5.Code\\Android\\AndroidStudyProjects\\AndroidStudyProjects\\TtwoActivity\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    }
+]

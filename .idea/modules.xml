@@ -2,34 +2,35 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ActivityListener/ActivityListener.iml" filepath="$PROJECT_DIR$/ActivityListener/ActivityListener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ActivityResult/ActivityResult.iml" filepath="$PROJECT_DIR$/ActivityResult/ActivityResult.iml" />
       <module fileurl="file://$PROJECT_DIR$/AndroidStudyProjects.iml" filepath="$PROJECT_DIR$/AndroidStudyProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ContextMenu/ContextMenu.iml" filepath="$PROJECT_DIR$/ContextMenu/ContextMenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicLayout/DynamicLayout.iml" filepath="$PROJECT_DIR$/DynamicLayout/DynamicLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicLayout2/DynamicLayout2.iml" filepath="$PROJECT_DIR$/DynamicLayout2/DynamicLayout2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicLayout3/DynamicLayout3.iml" filepath="$PROJECT_DIR$/DynamicLayout3/DynamicLayout3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GetIntentAction/GetIntentAction.iml" filepath="$PROJECT_DIR$/GetIntentAction/GetIntentAction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntentExtras/IntentExtras.iml" filepath="$PROJECT_DIR$/IntentExtras/IntentExtras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntentFilter/IntentFilter.iml" filepath="$PROJECT_DIR$/IntentFilter/IntentFilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LayoutFiles/LayoutFiles.iml" filepath="$PROJECT_DIR$/LayoutFiles/LayoutFiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listener/Listener.iml" filepath="$PROJECT_DIR$/Listener/Listener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MenuAdv/MenuAdv.iml" filepath="$PROJECT_DIR$/MenuAdv/MenuAdv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MenuSimple/MenuSimple.iml" filepath="$PROJECT_DIR$/MenuSimple/MenuSimple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OnClickButtons/OnClickButtons.iml" filepath="$PROJECT_DIR$/OnClickButtons/OnClickButtons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ResValues/ResValues.iml" filepath="$PROJECT_DIR$/ResValues/ResValues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SQLiteOnUpgradeDB/SQLiteOnUpgradeDB.iml" filepath="$PROJECT_DIR$/SQLiteOnUpgradeDB/SQLiteOnUpgradeDB.iml" />
       <module fileurl="file://$PROJECT_DIR$/SQLiteTransaction/SQLiteTransaction.iml" filepath="$PROJECT_DIR$/SQLiteTransaction/SQLiteTransaction.iml" />
       <module fileurl="file://$PROJECT_DIR$/SQliteInnerJoin/SQliteInnerJoin.iml" filepath="$PROJECT_DIR$/SQliteInnerJoin/SQliteInnerJoin.iml" />
       <module fileurl="file://$PROJECT_DIR$/SQliteQuery/SQliteQuery.iml" filepath="$PROJECT_DIR$/SQliteQuery/SQliteQuery.iml" />
-      <module fileurl="file://$PROJECT_DIR$/activityResult/activityResult.iml" filepath="$PROJECT_DIR$/activityResult/activityResult.iml" />
-      <module fileurl="file://$PROJECT_DIR$/activitylistener/activitylistener.iml" filepath="$PROJECT_DIR$/activitylistener/activitylistener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SharedPreferences/SharedPreferences.iml" filepath="$PROJECT_DIR$/SharedPreferences/SharedPreferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleActivityResult/SimpleActivityResult.iml" filepath="$PROJECT_DIR$/SimpleActivityResult/SimpleActivityResult.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleAnimation/SimpleAnimation.iml" filepath="$PROJECT_DIR$/SimpleAnimation/SimpleAnimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleBrowser/SimpleBrowser.iml" filepath="$PROJECT_DIR$/SimpleBrowser/SimpleBrowser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleCalculator/SimpleCalculator.iml" filepath="$PROJECT_DIR$/SimpleCalculator/SimpleCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleIntents/SimpleIntents.iml" filepath="$PROJECT_DIR$/SimpleIntents/SimpleIntents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleSQlite/SimpleSQlite.iml" filepath="$PROJECT_DIR$/SimpleSQlite/SimpleSQlite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TwoActivityExample/TwoActivity.iml" filepath="$PROJECT_DIR$/TwoActivityExample/TwoActivity.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/contextMenu/contextMenu.iml" filepath="$PROJECT_DIR$/contextMenu/contextMenu.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dynamiclayout/dynamiclayout.iml" filepath="$PROJECT_DIR$/dynamiclayout/dynamiclayout.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dynamiclayout2/dynamiclayout2.iml" filepath="$PROJECT_DIR$/dynamiclayout2/dynamiclayout2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dynamiclayout3/dynamiclayout3.iml" filepath="$PROJECT_DIR$/dynamiclayout3/dynamiclayout3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/getIntentAction/getIntentAction.iml" filepath="$PROJECT_DIR$/getIntentAction/getIntentAction.iml" />
-      <module fileurl="file://$PROJECT_DIR$/intentExtras/intentExtras.iml" filepath="$PROJECT_DIR$/intentExtras/intentExtras.iml" />
-      <module fileurl="file://$PROJECT_DIR$/intentFilter/intentFilter.iml" filepath="$PROJECT_DIR$/intentFilter/intentFilter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/layoutfiles/layoutfiles.iml" filepath="$PROJECT_DIR$/layoutfiles/layoutfiles.iml" />
-      <module fileurl="file://$PROJECT_DIR$/listener/listener.iml" filepath="$PROJECT_DIR$/listener/listener.iml" />
-      <module fileurl="file://$PROJECT_DIR$/menuadv/menuadv.iml" filepath="$PROJECT_DIR$/menuadv/menuadv.iml" />
-      <module fileurl="file://$PROJECT_DIR$/menusimple/menusimple.iml" filepath="$PROJECT_DIR$/menusimple/menusimple.iml" />
-      <module fileurl="file://$PROJECT_DIR$/onclickbuttons/onclickbuttons.iml" filepath="$PROJECT_DIR$/onclickbuttons/onclickbuttons.iml" />
-      <module fileurl="file://$PROJECT_DIR$/resvalues/resvalues.iml" filepath="$PROJECT_DIR$/resvalues/resvalues.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sharedPreferences/sharedPreferences.iml" filepath="$PROJECT_DIR$/sharedPreferences/sharedPreferences.iml" />
-      <module fileurl="file://$PROJECT_DIR$/simpleActivityResult/simpleActivityResult.iml" filepath="$PROJECT_DIR$/simpleActivityResult/simpleActivityResult.iml" />
-      <module fileurl="file://$PROJECT_DIR$/simpleBrowser/simpleBrowser.iml" filepath="$PROJECT_DIR$/simpleBrowser/simpleBrowser.iml" />
-      <module fileurl="file://$PROJECT_DIR$/simpleIntents/simpleIntents.iml" filepath="$PROJECT_DIR$/simpleIntents/simpleIntents.iml" />
-      <module fileurl="file://$PROJECT_DIR$/simpleSQlite/simpleSQlite.iml" filepath="$PROJECT_DIR$/simpleSQlite/simpleSQlite.iml" />
-      <module fileurl="file://$PROJECT_DIR$/simpleanimation/simpleanimation.iml" filepath="$PROJECT_DIR$/simpleanimation/simpleanimation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/simplecalculator/simplecalculator.iml" filepath="$PROJECT_DIR$/simplecalculator/simplecalculator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/twoactivity/twoactivity.iml" filepath="$PROJECT_DIR$/twoactivity/twoactivity.iml" />
     </modules>
   </component>
 </project>
